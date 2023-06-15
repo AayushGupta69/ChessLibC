@@ -1,3 +1,14 @@
+/**
+ * @file board.c
+ * @author AayushGupta69 (aayushgupta69official@gmail.com)
+ * @brief 
+ * @version 0.1
+ * @date 2023-06-15
+ * 
+ * @copyright Copyright (c) 2023
+ * 
+ */
+
 #include "board.h"
 
 struct square chessBoard[BOARD_SIZE][BOARD_SIZE];
